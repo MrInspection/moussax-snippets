@@ -3,6 +3,25 @@
 I got tired of typing the same stuff over and over again. I wanted quick, memorable snippets with abbreviations that
 made sense — so I built my own collection.
 
+---
+
+<!-- TOC -->
+* [Moussax Snippets](#moussax-snippets)
+* [📄 Snippets [11]](#-snippets-11)
+* [🧩 Installation](#-installation)
+  * [VS Code / Cursor Installation](#vs-code--cursor-installation)
+    * [Step 1: Search User Snippets](#step-1-search-user-snippets)
+    * [Step 2: Select "Typescript"](#step-2-select-typescript)
+    * [Step 3: Add the snippets](#step-3-add-the-snippets)
+  * [Jetbrains IDE Installation](#jetbrains-ide-installation)
+    * [Step 1: Download the Live Templates](#step-1-download-the-live-templates)
+    * [Step 2: Import the settings](#step-2-import-the-settings)
+    * [Step 3: Verify the templates](#step-3-verify-the-templates)
+* [Snippets Usage](#snippets-usage)
+<!-- TOC -->
+
+---
+
 # 📄 Snippets [11]
 
 | Name                   | Prefix  | Description                                                                         |
