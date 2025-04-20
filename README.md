@@ -22,7 +22,7 @@ made sense — so I built my own collection.
 
 ---
 
-# 📄 Snippets [11]
+# 📄 Snippets [14]
 
 | Name                   | Prefix  | Description                                                                         |
 |------------------------|---------|-------------------------------------------------------------------------------------|
@@ -37,6 +37,8 @@ made sense — so I built my own collection.
 | `next-route-handler`   | `nrou`  | API route handler for GET requests using `NextResponse`                             |
 | `providers`            | `prov`  | Global provider component with React Query setup (requires `@tanstack/react-query`) |
 | `zod-schema`           | `schem` | Create a Zod schema and infer the type (requires zod library)                       |
+| `tanstack-useMutation` | `nmut`  | Create a tanstack `useMutation` template (requires `@tanstack/react-query`)         |
+| `tanstack-useQuery`    | `nquer` | Create a tanstack `useQuery` template  (requires `@tanstack/react-query`)                                              |
 
 # 🧩 Installation
 
