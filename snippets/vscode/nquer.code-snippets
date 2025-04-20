@@ -1,0 +1,13 @@
+{
+  "tanstack-useQuery": {
+    "prefix": "nquer",
+    "body": [
+      "const {data, isPending} = useQuery({",
+      "  queryKey: [\"\"],",
+      "  queryFn: () => {},",
+      "})"
+    ],
+    "description": "Create a tanstack query template.",
+    "scope": "typescriptreact"
+  }
+}

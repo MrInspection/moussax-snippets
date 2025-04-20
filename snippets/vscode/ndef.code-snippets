@@ -1,0 +1,12 @@
+{
+  "default": {
+    "prefix": "ndef",
+    "body": [
+      "export default function Default() {",
+      "  return null",
+      "}"
+    ],
+    "description": "Create a next.js default component.",
+    "scope": "typescriptreact"
+  }
+}

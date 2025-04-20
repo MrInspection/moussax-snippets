@@ -1,0 +1,14 @@
+{
+  "tanstack-useMutation": {
+    "prefix": "nmut",
+    "body": [
+      "const {mutate, isPending} = useMutation({",
+      "  mutationFn: async () => {},",
+      "  onSuccess: () => {},",
+      "  onError: () => {},",
+      "})"
+    ],
+    "description": "Create a tanstack query mutation template.",
+    "scope": "typescriptreact"
+  }
+}
