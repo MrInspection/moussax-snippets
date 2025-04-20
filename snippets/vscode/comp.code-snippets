@@ -1,0 +1,14 @@
+{
+  "component-with-props": {
+    "prefix": "comp",
+    "body": [
+      "export type TestProps = {}",
+      "",
+      "export function Test(props: TestProps) {",
+      "  return",
+      "}"
+    ],
+    "description": "Create a typeScript component",
+    "scope": "typescriptreact"
+  }
+}

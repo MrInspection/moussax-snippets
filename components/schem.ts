@@ -1,0 +1,12 @@
+import { z } from "zod"
+
+export const SnippetSchema = z.object({
+
+})
+
+export type Snippet = z.infer<typeof SnippetSchema>
+
+// zod-schema
+// prefix: schem
+// description: Create a zod schema template.
+// scope: typescript

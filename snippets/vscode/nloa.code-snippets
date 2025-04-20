@@ -1,0 +1,12 @@
+{
+  "next-loading-page": {
+    "prefix": "nloa",
+    "body": [
+      "export default function RouteLoading(){",
+      "  return <div>Loading...</div>",
+      "}"
+    ],
+    "description": "Create a next.js loading page template",
+    "scope": "typescriptreact"
+  }
+}

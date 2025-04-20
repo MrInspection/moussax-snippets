@@ -1,0 +1,12 @@
+{
+  "component": {
+    "prefix": "com",
+    "body": [
+      "export function ${1:${TM_FILENAME_BASE/([\\w]+)([-_])([\\w])/${1:/capitalize}${3:/capitalize}/g}}(){",
+      "  return",
+      "}"
+    ],
+    "description": "Create base component depending on the file name",
+    "scope": "typescriptreact,javascriptreact"
+  }
+}

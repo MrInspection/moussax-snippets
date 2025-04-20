@@ -1,0 +1,14 @@
+{
+  "next-route-handler": {
+    "prefix": "nrou",
+    "body": [
+      "import {NextRequest, NextResponse} from \"next/server\";",
+      "",
+      "export async function GET(req: NextRequest){",
+      "  return NextResponse.json({message: \"Hello World\"}, {status: 200})",
+      "}"
+    ],
+    "description": "Create a next route handler template",
+    "scope": "typescript"
+  }
+}
