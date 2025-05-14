@@ -22,23 +22,28 @@ made sense — so I built my own collection.
 
 ---
 
-# 📄 Snippets [14]
+# 📄 Snippets [16]
 
-| Name                   | Prefix  | Description                                                                         |
-|------------------------|---------|-------------------------------------------------------------------------------------|
-| `component`            | `com`   | Base component boilerplate                                                          |
-| `component-with-props` | `comp`  | TypeScript component with `props` type                                              |
-| `component-with-base`  | `comb`  | Component with `children` and `className` props (using `cn` utility)                |
-| `not-found-page`       | `n404`  | Nextj.js 404 error page layout                                                      |
-| `error-page`           | `nerr`  | Next.js Generic error boundary page with reset support                              |
-| `next-layout-page`     | `nlay`  | Base layout file with `children` and async `params`                                 |
-| `next-loading-page`    | `nloa`  | Loading state page (used in Next.js route loading)                                  |
-| `next-page`            | `npag`  | Base page component using `params`                                                  |
-| `next-route-handler`   | `nrou`  | API route handler for GET requests using `NextResponse`                             |
-| `providers`            | `prov`  | Global provider component with React Query setup (requires `@tanstack/react-query`) |
-| `zod-schema`           | `schem` | Create a Zod schema and infer the type (requires zod library)                       |
-| `tanstack-useMutation` | `nmut`  | Create a tanstack `useMutation` template (requires `@tanstack/react-query`)         |
-| `tanstack-useQuery`    | `nquer` | Create a tanstack `useQuery` template  (requires `@tanstack/react-query`)                                              |
+> [!NOTE]  
+> The jetbrains version of the snippets contains additional snippets such as `ustat` for useState and more...
+
+| Name                             | Prefix  | Description                                                                         |
+|----------------------------------|---------|-------------------------------------------------------------------------------------|
+| `component`                      | `com`   | Base component boilerplate                                                          |
+| `component-with-props`           | `comp`  | TypeScript component with `props` type                                              |
+| `component-with-base`            | `comb`  | Component with `children` and `className` props (using `cn` utility)                |
+| `commponent-with-props-children` | `comc`  | Create base TypeScript component with props children.                                                                               |
+| `server-component`               | `coms`  | Create a server component                                                           |
+| `not-found-page`                 | `n404`  | Nextj.js 404 error page layout                                                      |
+| `error-page`                     | `nerr`  | Next.js Generic error boundary page with reset support                              |
+| `next-layout-page`               | `nlay`  | Base layout file with `children` and async `params`                                 |
+| `next-loading-page`              | `nloa`  | Loading state page (used in Next.js route loading)                                  |
+| `next-page`                      | `npag`  | Base page component using `params`                                                  |
+| `next-route-handler`             | `nrou`  | API route handler for GET requests using `NextResponse`                             |
+| `providers`                      | `prov`  | Global provider component with React Query setup (requires `@tanstack/react-query`) |
+| `zod-schema`                     | `schem` | Create a Zod schema and infer the type (requires zod library)                       |
+| `tanstack-useMutation`           | `nmut`  | Create a tanstack `useMutation` template (requires `@tanstack/react-query`)         |
+| `tanstack-useQuery`              | `nquer` | Create a tanstack `useQuery` template  (requires `@tanstack/react-query`)           |
 
 # 🧩 Installation
 
